@@ -1,0 +1,2 @@
+# Config-Managaement-Tool
+This tool basically provides us an easy and handy method of conducting comparison between two components (folders/files), which can further have a list of various directories or different file formats. For each component ansible is listed with corresponding nodes details (inventory) and their tasks. For comparison of any components (across the env or within same env), corresponding tag need to execute along with the env name and then push the config into a git-repo to generate the report. 
